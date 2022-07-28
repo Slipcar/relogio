@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.relogio {
+    background-color: #333;
+    color: #fff;
+    width: 54%;
+    margin: auto;
+    padding: 50px 0;
+    font-size: 60px;
+    border-radius: 20px;
+}
